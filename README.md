@@ -7,11 +7,7 @@ Dexacker is designed for Educational Stuff to do a LEGAL DDOS Test and the devel
 
 Contacting using:@Hexacker | fb.com/Hexacker
 
-http://www.hexacker.com
-
-http://www.hackercademy.com
-
-http://www.bringitsimple.com
+http://www.abdulmadjid.com
 
 HOW TO USE
 
