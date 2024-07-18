@@ -5,9 +5,9 @@ Dexacker is a free and open source project for Distributed Denial of Service att
 
 Dexacker is designed for Educational Stuff to do a LEGAL DDOS Test and the developer/developers is not responsible for any ILLEGAL USES
 
-Contacting using:@Hexacker | fb.com/Hexacker
+Contacting using:@Hexacker
 
-http://www.abdulmadjid.com
+https://hexacker.com
 
 HOW TO USE
 
